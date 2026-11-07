@@ -1,2 +1,7 @@
 # Diabetes-Mellitus-Prediction-Using-Neural-Network
-Diabetes Mellitus Prediction using a Neural Network Model (Deep Learning).
+
+## Dataset
+
+The dataset used in this project is available here:
+
+[Download Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/diabetes-health-indicators-dataset)
